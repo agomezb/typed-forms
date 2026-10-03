@@ -97,6 +97,8 @@ function Login() {
 }
 ```
 
+Ejemplo completo y ejecutable en [samples/react](samples/react).
+
 ## Angular
 
 ```ts
