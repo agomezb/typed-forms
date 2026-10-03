@@ -1,0 +1,8 @@
+{
+  "extends": "./tsconfig.test.json",
+  "compilerOptions": {
+    // Semántica de Angular CLI: los campos de clase se asignan en el constructor.
+    "useDefineForClassFields": false,
+    "outDir": ".test-dist/assign"
+  }
+}
